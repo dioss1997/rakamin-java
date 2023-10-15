@@ -16,6 +16,6 @@ public class casePercabangan {
         } else {
             grade = "F";
         }
-        System.out.println("Grade adalah = " + grade);
+        System.out.println("Grade = " + grade);
     }
 }
